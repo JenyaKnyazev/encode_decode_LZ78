@@ -1,1 +1,0 @@
-C:\Users\david\Desktop\C++_projects\encode_decode_LZ78\x64\Release\encode_decode_LZ78.exe
